@@ -1,2 +1,2 @@
 # JavaScript-
-Code reopsitory of javaScript 
+Code reopsitory for javaScript 
